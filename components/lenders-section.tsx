@@ -6,7 +6,7 @@ import { ArrowRight } from "lucide-react"
 export default function LendersSection() {
   // Array of bank information
   const banks = [
-    { name: "ASB", logo: "/banks/asb.png", id: "asb" },
+    { name: "ASB", logo: "@banks/asb.png", id: "asb" },
     { name: "ANZ", logo: "/banks/anz.png", id: "anz" },
     { name: "BNZ", logo: "/banks/bnz.png", id: "bnz" },
     { name: "Kiwibank", logo: "/banks/kiwibank.png", id: "kiwibank" },
